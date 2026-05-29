@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.jpg",
+      "title": "Kênh TikTok giáo dục nhập vai văn học",
+      "client": "Kênh @chuyen.hoc.van (Giải Nhì STTTNNĐ)",
+      "slug": "https://www.tiktok.com/@chuyen.hoc.van"
+    },
+    {
+      "image": "/images/work/work-img-2.jpg",
+      "title": "Phim ngắn tiếng Anh: Đường trở về",
+      "client": "Giải Nhất Tiểu phẩm cấp tỉnh",
+      "slug": "https://youtu.be/hY036Er_HRI?si=QplmLOLEFU4NVJO_"
+    },
+    {
+      "image": "/images/work/work-img-3.jpg",
+      "title": "Phóng sự: Phúc Sơn Tự",
+      "client": "Phóng sự truyền hình",
+      "slug": "https://drive.google.com/file/d/1Gg9RbEoQeMKZ_DTjhqF83yMFhfRxRC5F/view?usp=share_link"
+    },
+    {
+      "image": "/images/work/work-img-4.jpg",
+      "title": "Bản tin: Văn hoá ăn mặc giảng đường",
+      "client": "Bản tin thời sự học đường",
+      "slug": "https://drive.google.com/file/d/1TxrD_e9GEZuojQQShgHOuEBZNQr7dcPq/view?usp=share_link"
+    },
+    {
+      "image": "/images/work/work-img-5.jpg",
+      "title": "Phóng sự: Ý Đảng hợp lòng dân",
+      "client": "Phóng sự điều tra xã hội",
+      "slug": "https://drive.google.com/file/d/1jt8o-JIF_HBoFdCRCAaegdjZdwCujI_A/view?usp=share_link"
+    },
+    {
+      "image": "/images/work/work-img-6.jpg",
+      "title": "TVC: Kem bờ hồ",
+      "client": "Quảng cáo hoài niệm",
+      "slug": "https://drive.google.com/file/d/12Rt8kw0NVNP0Atd2yVkoInBYxWLVNQtL/view?usp=sharing"
+    }
+  ]
+}
