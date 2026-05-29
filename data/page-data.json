@@ -56,32 +56,32 @@
     "skills": [
       {
         "name": "Biên kịch & Kịch bản",
-        "icon": "/images/home/education-skill/figma-icon.svg",
+        "icon": "/images/home/education-skill/bien-kich-kich-ban.png",
         "rating": 5
       },
       {
         "name": "CapCut",
-        "icon": "/images/home/education-skill/adobe-icon.svg",
+        "icon": "/images/home/education-skill/capcut.png",
         "rating": 5
       },
       {
         "name": "Adobe Photoshop",
-        "icon": "/images/home/education-skill/photoshop-icon.svg",
+        "icon": "/images/home/education-skill/adobe-photoshop.jpg",
         "rating": 4
       },
       {
         "name": "Illustrator",
-        "icon": "/images/home/education-skill/sketch-icon.svg",
+        "icon": "/images/home/education-skill/illustrator.png",
         "rating": 4
       },
       {
         "name": "AI (Gemini/ChatGPT)",
-        "icon": "/images/home/education-skill/framer-icon.svg",
+        "icon": "/images/home/education-skill/ai-gemini-chatgpt.webp",
         "rating": 5
       },
       {
         "name": "Quay phim & MC",
-        "icon": "/images/home/education-skill/invision-icon.svg",
+        "icon": "/images/home/education-skill/quay-phim-mc.jpg",
         "rating": 4
       }
     ]
